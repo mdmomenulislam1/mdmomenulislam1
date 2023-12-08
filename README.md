@@ -71,26 +71,21 @@
 <br>
 <br>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; color: #336699;" >
+<div style="display: flex; flex-direction: row; justify-content: space-around; color: #336699;">
 
+<p style="flex: 1; text-align: center;">
 
-
-<p>
-
-[![An old rock in the desert](/asset/Picture2.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/mdmomenulislam)
-
+  [![An old rock in the desert](/asset/Picture2.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/mdmomenulislam)
 </p>
 
-<p>
+<p style="flex: 1; text-align: center;">
 
-[![An old rock in the desert](/asset/Picture3.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/MomenulD)
-
+  [![An old rock in the desert](/asset/Picture3.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/MomenulD)
 </p>
 
-<p>
+<p style="flex: 1; text-align: center;">
 
-[![An old rock in the desert](/asset/Picture4.png "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/mdmomenulislam0)
-
+  [![An old rock in the desert](/asset/Picture4.png "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/mdmomenulislam0)
 </p>
 
 </div>
