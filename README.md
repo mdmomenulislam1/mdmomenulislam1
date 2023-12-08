@@ -71,7 +71,7 @@
 <br>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-around; color: #336699;" >
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; color: #336699;" >
 
 
 
