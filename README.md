@@ -18,11 +18,7 @@
 </svg>
 
 ## Current Overview
-[![GitHub Trends SVG](https://www.githubwrapped.io/mdmomenulislam1/2023)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmomenulislam1/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 ## Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmomenulislam1&theme=moonlight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmomenulislam1&theme=moonlight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmomenulislam1&theme=onedark&utcOffset=8)
