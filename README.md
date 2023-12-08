@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/asset/Banner.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/asset/Banner.png "San Juan Mountains")
 
 
 
