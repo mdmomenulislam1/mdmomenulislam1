@@ -73,11 +73,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-around; color: #336699;" >
 
-<p>
 
-[![An old rock in the desert](/asset/Picture1.png "Shiprock, New Mexico by Beau Rogers")](mdmomenulislam1@gmail.com)
-
-</p>
 
 <p>
 
