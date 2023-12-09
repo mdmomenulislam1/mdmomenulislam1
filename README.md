@@ -1,5 +1,5 @@
 <div>
-<img src="./asset/Banner.png" align="center" width="100%" height="300px"/>
+<img src="./asset/Banner.png" align="center" width="100%" />
 </div>
 
 
@@ -25,8 +25,7 @@
 
 
 <br>
-<br>
-<br>
+
 
 # My Familiar Technologies
 <br><table><tr><td valign="top" width="33%">
@@ -70,19 +69,6 @@
 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,firebase,mongodb,react,express,nodejs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
-  </a>
-</p>
-<br>
-<br>
-<br>
 
 # Projects
 
@@ -172,7 +158,7 @@ Completed projects for top food and beverage brands, delivering custom-designed,
 # Current Overview
 
 <br>
-<br>
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmomenulislam1&theme=github-dark&border_radius=8&card_width=900)](https://git.io/streak-stats)
@@ -180,12 +166,11 @@ Completed projects for top food and beverage brands, delivering custom-designed,
 
 
 <br>
-<br>
-<br>
+
 
 # Summary
 <br>
-<br>
+
 
 <div align="center">
 
@@ -194,8 +179,6 @@ Completed projects for top food and beverage brands, delivering custom-designed,
 </div>
 
 
-<br>
-<br>
 <br>
 
 ## Connect with me  
