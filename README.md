@@ -1,5 +1,5 @@
 <div>
-<img src="./asset/Banner.png" align="center" width="100%" />
+<img src="https://i.ibb.co/NY0Q1pV/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.jpg" align="center" width="100%" />
 </div>
 
 
